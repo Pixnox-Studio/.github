@@ -16,6 +16,7 @@ We love collaborating with the community! If you'd like to contribute:
 1. Check out our repositories.
 2. Read the `CONTRIBUTING.md` file for each project.
 3. Fork the repo, make your changes, and submit a pull request.
+4. give us a follow on itch.io.
 
 Whether you're a beginner or an experienced dev, there's a place for you here.
 
